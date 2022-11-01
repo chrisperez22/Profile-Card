@@ -1,6 +1,7 @@
 .filters {
   background: white;
   width: 100%;
+  text-align: center;
 }
 .filters li {
   display: inline-block;
